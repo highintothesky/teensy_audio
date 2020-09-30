@@ -1,8 +1,9 @@
 LCD:
 http://www.qc-lcd.com/Upload/file/20138519401472480.pdf
 
-- 2x ribbon (6 draadjes)
-- 2 knoppen
-- micro usb verlengkabel
-- minijack -> stereo jack port
+- 2x ribbon (6 draadjes) https://www.tinytronics.nl/shop/nl/kabels/flatcable/flatcable-rol-gekleurd-60m-1.27mm
+- 2 knoppen - radio rotor of https://www.thomann.de/nl/thomann_fussschalter.htm
+- micro usb verlengkabel - https://www.tinytronics.nl/shop/nl/kabels/usb/micro-usb-verlengkabel-met-monteerstuk-en-hoek-30cm
+- minijack -> stereo jack port https://www.kabelshop.nl/Nedis-6-35-mm-jack-chassis-Nedis-Stereo-Metaal-Vrouwelijk-CAVC23995ME-i15076-t9805.html
 - stereo jack -> XLR https://www.kabelshop.nl/Procab-2x-XLR-m-naar-jack-6-35-mm-kabel-Procab-1-5-meter-Stereo-CAB733-1-5-PB07440-i4814-t10529.html
+- sd extender -> misschien https://thepihut.com/products/micro-sd-to-sd-extension-cable
