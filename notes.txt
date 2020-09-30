@@ -1,0 +1,8 @@
+LCD:
+http://www.qc-lcd.com/Upload/file/20138519401472480.pdf
+
+- 2x ribbon (6 draadjes)
+- 2 knoppen
+- micro usb verlengkabel
+- minijack -> stereo jack port
+- stereo jack -> XLR https://www.kabelshop.nl/Procab-2x-XLR-m-naar-jack-6-35-mm-kabel-Procab-1-5-meter-Stereo-CAB733-1-5-PB07440-i4814-t10529.html
